@@ -1,0 +1,40 @@
+.headertext{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-shadow: 3px 3px 0px rgb(152,152,152);
+  background-color: black;
+}
+
+.navbar-nav > li{
+  padding-left:60px;
+  padding-right:60px;
+}
+
+.carousel {
+    margin: auto;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    width: 800px;
+    height: 500px;
+}
+
+.carousel-item > img {
+    height:500px;
+}
+
+body {
+  background-image: url("img/background.jpg");
+}
+
+.page-footer {
+  background-color: black;
+}
+
+.iconimage > img{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.footer-design {
+  margin-bottom: 30px;
+}

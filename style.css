@@ -1,0 +1,57 @@
+.headertext{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-shadow: 3px 3px 0px rgb(152,152,152);
+  background-color: black;
+}
+
+.home-img > img {
+    width:800px;
+    height:500px;
+}
+
+.about-me{
+  margin-left: 340px;
+  margin-top:50px;
+  margin-bottom:50px;
+}
+.navbar-nav > li{
+  padding-left:60px;
+  padding-right:60px;
+}
+
+.carousel {
+    margin: auto;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    width: 800px;
+    height: 500px;
+}
+
+.carousel-item > img {
+    width:800px;
+    height:500px;
+}
+
+body {
+  background-image: url("img/background.jpg");
+    text-align: center;
+}
+
+.contact-info {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.page-footer {
+  background-color: black;
+}
+
+.iconimage > img{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.footer-design {
+  margin-bottom: 30px;
+}
